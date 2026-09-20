@@ -1,0 +1,9 @@
+# Verified versions from the machine this was exported from — pin close to these.
+fastapi>=0.115            # [0.141.1]
+uvicorn>=0.30             # [0.52.4]
+pydantic>=2.7,<3          # [2.13.5]
+numpy>=1.26               # [2.4.6]
+opencv-python>=4.9        # [5.0.0.93]
+torch                     # [2.14.0]
+torchvision               # [0.29.0]
+ultralytics               # [8.4.150]

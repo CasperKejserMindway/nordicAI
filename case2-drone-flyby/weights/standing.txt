@@ -1,0 +1,4 @@
+weights/drone_v5_v8.pt
+hangar=0.94,helicopter=1.3,jet_plane=1.15,large_tower=1.34,medium_launcher=1.59,mine_roller=0.84,small_launcher=1.04,small_plane=0.99,small_tower=1.08,tank=0.83,condor=1.0,spacecraft=1.0,medium_plane=1.0,jammer=1.0,ta-ta=1.0,large_launcher=1.0
+weights/synth_v4_e4.pt
+condor,spacecraft,medium_plane,jammer,ta-ta,large_launcher
